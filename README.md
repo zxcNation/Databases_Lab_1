@@ -25,3 +25,9 @@
 ---
 
 ### 📁 Структура репозитория
+-A-0 Контекстная диаграмма.drawio.png
+-A0 Детализация.drawio.png
+-A2 Декомпозиция процесса 2.drawio.png
+-DFD_Sapfire_Leaf_diagrams.pdf
+-Матрица событий.drawio.png
+-Презентация_DFD_Sapfire_Leaf.pdf
